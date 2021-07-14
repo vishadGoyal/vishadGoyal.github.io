@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome to my blog!"
+date:   2021-07-14 23:46:36 +0530
+categories: blog
+---
+
+This is the first blog in what will hopefully be a long and fairly regular blog. I have been thinking of doing this for a while now but never got around to it. I bought this domain in February 2020 and my first blog post is coming almost 17 months later! I guess what I am trying to tell you is I can procrastinate like a pro. Although, I can be very regular and dedicated in some things. I haven't yet cracked the secret behind this but I'll let you know when I do.
+
+I didn't prepare any material for this. I just wanted to get the first points on the board and just get started.
+
+### What can you expect in the future?
+My current plan (which is just a few hours old) is to write about my day, software engineering or some cocktail recipes I experiment with.
+
+My days can get pretty boring and repetitive so my hypothesis is that if I commit to writing about it I'll try to make my life more interesting. Let's hope that turns out to be a good theory!
+
+My cocktails recipe are nothing to write home about in that they are very simple. Although, that said they do taste good as I have a fairly large tester crowd presend whenever I tinker with it.
+
+Probably the easiest thing I can write about is software engineering. However, with the vast amount of blogs/tutorials already out there I'll have to put a lot of preparation into this so it is somewhat interesting to you.
+
+
+Looking back on what I wrote, I think the title should have been **First draft of plan for the blog**. Live and learn!
+
+See you later.
