@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I am Vishad Goyal.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a software engineer, casual gamer, Liverpool fan and a noob bartender among other things.<br>
+My preferred languages are Hindi, English and Punjabi in that order.<br>
+Born and brought up in Patiala, Punjab.<br>
+I studied CSE at IIT Kanpur (2014-2018)<br>
+I have been working as a software engineer ever since.<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<a href="https://steamcommunity.com/id/vishad-goyal/"> Steam </a>
+<br>
+<a href="https://www.linkedin.com/in/vishad-goyal/"> LinkedIn </a>
 
-
-[jekyll-organization]: https://github.com/jekyll
+***YNWA***
