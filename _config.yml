@@ -23,12 +23,14 @@ title: Vishad Goyal
 description: >- # this means to ignore newlines until "baseurl:"
   My online real estate. I plan to use this as a daily journal and/or blog.
   I might blog about software engineering or share my cocktail recipes.
-  Who knows what might happen!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lemonliberal.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: VishadGoyal
-github_username:  vishadGoyal
-linkedin_username: vishad-goyal
+url: "https://www.vishadgoyal.com" # the base hostname & protocol for your site, e.g. http://example.com
+minima:
+  skin: dark
+  social_links:
+    twitter: VishadGoyal
+    github: vishadGoyal
+    linkedin: vishad-goyal
 
 # Build settings
 theme: minima
