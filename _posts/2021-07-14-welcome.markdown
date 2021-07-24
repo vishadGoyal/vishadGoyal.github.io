@@ -14,10 +14,7 @@ My current plan (which is just a few hours old) is to write about my day, softwa
 
 My days can get pretty boring and repetitive so my hypothesis is that if I commit to writing about it I'll try to make my life more interesting. Let's hope that turns out to be a good theory!
 
-My cocktails recipe are nothing to write home about in that they are very simple. Although, they do taste good, even if I say so myself.
-
 Probably the easiest thing I can write about is software engineering. However, with the vast amount of blogs/tutorials already out there I'll have to put a lot of preparation into this to make it somewhat interesting to you.
-
 
 Looking back on what I wrote, I think the title should have been **First draft of plan for the blog**. Live and learn!
 
