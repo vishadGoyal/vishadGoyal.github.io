@@ -21,7 +21,7 @@
 title: Vishad Goyal
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My online real estate. I plan to use this as a daily journal and/or blog.
+  My online real estate. I plan to use this as a journal for those rare times I do something cool.
   I might blog about software engineering or share my cocktail recipes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.vishadgoyal.com" # the base hostname & protocol for your site, e.g. http://example.com
